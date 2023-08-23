@@ -1,16 +1,17 @@
 {
-    "files": {
-        "index.js": "5624c5db26b09766673188328cf002237915131fbc45c46955dc82f316c09206",
-        "module.json": "776bb537b35145f2d97ecba771f5edca8242319f42033dc2a0dbd0b54b677089",
-        "README.md": "b2263a0bea20c5255ede0bd02859da592ed372dbaf53abfb9d6de75a00da5e4b",
-        "settings.js": "74c01c33452fcd41275dbb232c3e431eb1d0c0fa912330cced537d9e43ce1ce3"
-    },
-    "defs": {
-        "C_GET_WARE_ITEM": 3,
-        "C_PUT_WARE_ITEM": 3,
-        "C_VIEW_WARE": 2,
-        "S_CANCEL_CONTRACT": 1,
-        "S_REQUEST_CONTRACT": 1,
-        "S_VIEW_WARE_EX": [1,2,3]
-    }
+	"files": {
+		"LICENSE": "6852c5660e8b1091694e5350f2cbb7fff8f0e067d5fb1581982d5c78f90a655c",
+		"README.md": "b2263a0bea20c5255ede0bd02859da592ed372dbaf53abfb9d6de75a00da5e4b",
+		"index.js": "5624c5db26b09766673188328cf002237915131fbc45c46955dc82f316c09206",
+		"module.json": "776bb537b35145f2d97ecba771f5edca8242319f42033dc2a0dbd0b54b677089",
+		"settings.js": "74c01c33452fcd41275dbb232c3e431eb1d0c0fa912330cced537d9e43ce1ce3"
+	},
+	"defs": {
+		"C_GET_WARE_ITEM": 3,
+		"C_PUT_WARE_ITEM": 3,
+		"C_VIEW_WARE": 2,
+		"S_CANCEL_CONTRACT": 1,
+		"S_REQUEST_CONTRACT": 1,
+		"S_VIEW_WARE_EX": 3
+	}
 }
